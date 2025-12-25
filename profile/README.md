@@ -17,6 +17,7 @@ We build tools that solve real problems AI faces in reverse engineering scenario
 | [smart-fs](https://github.com/reverse-craft/smart-fs) | Core code processing library - beautify, truncate, search, analyze |
 | [smart-fs-mcp](https://github.com/reverse-craft/smart-fs-mcp) | MCP server - AI tool wrapper for smart-fs |
 | [ai-tools](https://github.com/reverse-craft/ai-tools) | AI analysis toolkit - LLM-driven code analysis capabilities |
+| [rc-devtools-mcp](https://github.com/reverse-craft/rc-devtools-mcp) | MCP server - Browser debugging and reverse engineering |
 
 More tools in development.
 
@@ -43,6 +44,7 @@ AI 辅助逆向工程工具套件。
 | [smart-fs](https://github.com/reverse-craft/smart-fs) | 核心代码处理库 - 美化、截断、搜索、分析 |
 | [smart-fs-mcp](https://github.com/reverse-craft/smart-fs-mcp) | MCP 服务器 - smart-fs 的 AI 工具封装 |
 | [ai-tools](https://github.com/reverse-craft/ai-tools) | AI 分析工具集 - LLM 驱动的代码分析能力 |
+| [rc-devtools-mcp](https://github.com/reverse-craft/rc-devtools-mcp) | MCP 服务器 - 浏览器调试与逆向工程 |
 
 更多工具持续开发中。
 
